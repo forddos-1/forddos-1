@@ -9,6 +9,7 @@
 🌍 Україна (Ukraine)
 
 ## 🧠 Основні навички (Basic skills): 
+- C, Arduino
 - C#, .NET Framework
 - Windows Forms, WPF
 - Unity (2D/3D)
